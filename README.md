@@ -39,7 +39,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ---
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### 1. Clonar el repositorio
 
@@ -164,7 +164,7 @@ INICIO
 
 ---
 
-## 🗄️ Datos de Prueba
+##  Datos de Prueba
 
 ### Banco Nacional — PostgreSQL
 
@@ -399,4 +399,4 @@ orquestado debido a que hay una clase central la cual coordina a las demas y no 
 
 ---
 
-*Pontificia Universidad Javeriana — Arquitectura de Software (3384)*
+*Pontificia Universidad Javeriana — Arquitectura de Software *
